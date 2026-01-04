@@ -14,3 +14,24 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+***************************************************************************************************
+🚗 BMW Car Demo Project (React)
+
+A modern and responsive BMW Car Demo Web Application built using React.js.
+This project showcases BMW car models with a clean UI, smooth layout, and interactive sections, suitable for front-end practice and portfolio presentation.
+
+🔹 Project Overview
+
+The BMW Car Demo Project is a front-end React application designed to demonstrate:
+
+Brand-focused UI design
+
+Component-based architecture
+
+Responsive layouts using CSS
+
+Real-world project structure for beginners
+
+This project is ideal for React freshers and developers building portfolio-ready applications.
